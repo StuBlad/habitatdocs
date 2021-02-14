@@ -1,0 +1,109 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214161418)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\notes\stats)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(/*             Statistics for Habitat's Hall of Records               */)'
+()'
+()'
+(/* Currently defined functions for record_collection routine:         */)'
+()'
+(%replace HS$adjust            by 1;)'
+(%replace HS$set               by 2;)'
+(%replace HS$max               by 3;)'
+(%replace HS$min               by 4;)'
+()'
+()'
+(/* Currently defined stat fields for record_collection routine:       */)'
+(/* Fields numbered less than 100 will be binary\(15\) fields while      */)'
+(/* fields numbered greater that 100 will be binary\(31\) fields.        */)'
+()'
+(%replace HS$lifetime          by   1;)'
+(%replace HS$max_lifetime      by   2;)'
+(%replace HS$deaths            by   3;)'
+(%replace HS$treasures         by   4;)'
+(%replace HS$mail_send_count   by   5;)'
+(%replace HS$mail_recv_count   by   6;)'
+(%replace HS$grabs             by   7;)'
+(%replace HS$kills             by   8;)'
+(%replace HS$escapes           by   9;)'
+(%replace HS$body_changes      by  10;)'
+()'
+(%replace HS$max_wealth        by 101;)'
+(%replace HS$travel            by 102;)'
+(%replace HS$max_travel        by 103;)'
+(%replace HS$teleports         by 104;)'
+(%replace HS$explored          by 105;)'
+(%replace HS$online_time       by 106;)'
+(%replace HS$talkcount         by 107;)'
+(%replace HS$ghost_time        by 108;)'
+(%replace HS$ghost_count       by 109;)'
+(%replace HS$esp_send_count    by 110;)'
+(%replace HS$esp_recv_count    by 111;)'
+(%replace HS$requests          by 112;)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1558
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000185 00000 n 0000002131 00000 n 0000000240 00000 n 0000000326 00000 n 0000000403 00000 n 0000000491 00000 n 0000002108 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2224
+%%EOF

@@ -1,0 +1,106 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214143843)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\admin\realms.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(This is the current list of realms under construction.  Please feel free to)'
+(add to it as you are inspired.)'
+()'
+(Populopolis -- The first Avatar village.  Basically generated, needs to be)'
+(populated with necessary objects and things to do \(and Avatars!\).  Has a few)'
+(minor glitches that need to be fixed with Twiddle \(e.g., all the doors in the)'
+(place are locked\).)'
+()'
+(The Road Through The Forest -- An enchanted pathway through the woods.)'
+(Consists of branching path that goes off into the scenery, getting weirder the)'
+(farther away you travel.  Has a number of surprises embedded in it, notably)'
+(the False Oracle.  Currently mapped, and the control files for Riddle are set)'
+(up, but the regions themselves need to be generated.)'
+()'
+(D'nalsi Island -- This is Randy's initial adventure.  Is designed and mapped)'
+(out, but needs to have it's data generated.)'
+()'
+(The Back Forty -- A generic woods area of relatively little complication.)'
+(Includes the Not-So-Wise Man's house.  Exists only as a sketch map presently.)'
+(Required for Randy's adventure.)'
+()'
+(The Really Quite Confusing Desert -- This is basically a maze puzzle \(it's our)'
+(homage to Crowther and Woods\).  Sketch map.)'
+()'
+(The Beach -- Simple social area.  Sketch map.)'
+()'
+(The Ruins -- The remains of an abandoned city.  Lots of secret passageways and)'
+(mysterious twists and turns.  Intended as a setting for treasure hunts and)'
+(games of Assassin.  Currently just a sketch map.)'
+()'
+(Mysterious Magic Castle -- Steve's adventure, coming soon to a computer near)'
+(you.  Currently an idea in Steve's head.)'
+()'
+(Capture The Flag Field -- Sporting area for playing capture the flag.  A)'
+(concept only at present.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1811
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000188 00000 n 0000002387 00000 n 0000000243 00000 n 0000000329 00000 n 0000000406 00000 n 0000000494 00000 n 0000002364 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2480
+%%EOF

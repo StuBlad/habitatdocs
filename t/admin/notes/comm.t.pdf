@@ -1,0 +1,100 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214160630)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\notes\comm.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(Communications Protocol: Problems and Desired Changes)'
+()'
+(In order of significance and difficulty and in inverse order of degree of)'
+(solving the problem:)'
+()'
+(1. Make the host respond to HEARTBEATs from the Commodore, even if it has)'
+(outstanding NAKs pending -- this is the way the protocol is supposed to work)'
+(anyhow \(it is an acknowledged bug\) and will allow certain kinds of common)'
+(protocol recoveries to be accomplished with 2 packets instead of 6, saving)'
+(time and CPU overhead.  The result will be improved performance througout the)'
+(system, not just in Habitat.)'
+()'
+(2. Have the host be more intelligent about sending packets, and only send as)'
+(many packets as it knows the C64 can buffer, until getting some sort of)'
+(acknowledgement from the C64 \(i.e., never allow itself to get more than a)'
+(certain amount ahead of the Commodore, no matter what\).)'
+()'
+(3. Allow the application level program on the Stratus to tell the terminal)'
+(port to shut-up.  With some changes in the handshaking of such things as)'
+(pick-from-container and region transition, we can eliminate the "NAK-hack".)'
+(Since it happens at the application level, this change should be transparent)'
+(to the existing C64 products.)'
+()'
+(4. Add a new message type that enables the host to provide the C64 with the)'
+(throttle setting.  This requires either a change to the protocol itself or the)'
+(addition of a query function so that the application can send this message.)'
+()'
+(5. Redesign the protocol from first principles and do it right this time.)'
+(This, of course, changes *everything*.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1686
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000186 00000 n 0000002260 00000 n 0000000241 00000 n 0000000327 00000 n 0000000404 00000 n 0000000492 00000 n 0000002237 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2353
+%%EOF

@@ -1,0 +1,101 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214143632)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\admin\dbtasks.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(As we discussed, here is a list of the pending database tasks yet to be done)'
+(for MicroCosm:)'
+()'
+(1\) Modify object creation routine so that caller supplies object number,)'
+(rather than having the routine generate it itself.)'
+()'
+(2\) Modify class disk load routine so that images are loaded separately, on)'
+(demand according to graphic style, rather than being loaded automatically with)'
+(the rest of the class information.)'
+()'
+(3\) Modify disk load routines to load several classes at once in order to)'
+(optimize disk head movement.)'
+()'
+(4\) Add run-time memory free-space compaction \(garbage collection of unused)'
+(objects\).)'
+()'
+(5\) Add hooks for multiple class/image/action/sound files based on region)'
+(terrain type.)'
+()'
+(6\) Add capability for disk update \(to install new or revised classes, imagery,)'
+(and so on\) and disk space compaction.)'
+()'
+(#1, #2 and #3 are essential for the April 15 delivery.  The rest will be)'
+(needed by Beta test time \(possibly #6 can wait until final release, but update)'
+(capability during Beta test would be desirable\).)'
+()'
+(I spoke with Ron, and he said #1, #2 and #3 are \(all together\) only a couple)'
+(of days' work, so he is going to polish them off first thing next week in)'
+(order to get them out of the way.  The remainder we will have to work out)'
+(accomodations for depending on his workload on Maniac Mansion.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1477
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000189 00000 n 0000002054 00000 n 0000000244 00000 n 0000000330 00000 n 0000000407 00000 n 0000000495 00000 n 0000002031 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2147
+%%EOF

@@ -1,0 +1,326 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214150720)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\status\arfs0904)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(Mail to:    SPBLives)'
+(Mail From:  Janet)'
+(Date:  Thursday 3-Sep-87 17:38 edt)'
+(One more time...)'
+(Please check vendo in Paint Shop:)'
+(Vendo # 7092 had 7095 in slot 7 when)'
+(there was an attempt to put 7094 there.)'
+()'
+(%cvideo#d060>habitat>arfs.87-09-04  87-09-04 13:43:28 edt)'
+()'
+(SUBJ: Report...                       )'
+(FROM: Kelly Daze  09/04/87   S#: 74875 )'
+( )'
+(at 2:25 \(EDT\) with no other Avatars)'
+(present....Leaving Kellys Bar and)'
+(Grill... Going to the left...got fatal)'
+(error before seein' next screen...)'
+(Did a dump...returned to Hab...)'
+(with no problem...ended up in front)'
+(of Pawn Shop..re-entered Kellys Bar and)'
+(Grill....no other probs..    :\))'
+(  Is this how its done?)'
+(**************************************************)'
+(SUBJ: Fatal error 0                   )'
+(FROM: QZOOKEEPER  09/04/87   S#: 74717 )'
+( )'
+( Sept 4)'
+( 01:04 )'
+( )'
+( sir jon and I were in front of)'
+( Broadway Bank.  We were playing around)'
+( "talking" trying to figure out the)'
+( graphic characters.  The last thing)'
+( sir jon sent was a series of control)'
+( spaces.  I was just playing around)'
+( with the graphics and received the)'
+( error dump message.)'
+()'
+( Last two graphics I saw on the screen)'
+( that I did were control J and K)'
+()'
+()'
+(            bobbye)'
+(**************************************************)'
+(SUBJ: Lock-up REGION 1310/9:15        )'
+(FROM: Frodo B     09/03/87   S#: 71540 )'
+( )'
+( Locked up in Region 1310 at 9:15PM)'
+( Space Usage: 16500-9478=7022)'
+()'
+( On screen:  Frodo B)'
+(             Hard Hat Sign)'
+(             Under Construction -)'
+(              Do Not Enter Sign)'
+(             Pink Grass)'
+(             Trashcan)'
+()'
+( Made 3 attempts to pass beyond Do Not)'
+( Enter Sign at left, middle and right)'
+( back of screen.)'
+ET
+endstream
+endobj
+8 0 obj
+1913
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 11 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+()'
+( F7ed Both signs and got:)'
+()'
+(   "What's the matter...." message)'
+()'
+( Attempted to exit via left and right )'
+( sides of screen and got back:)'
+()'
+(   "There is nowhere...." message on )'
+( both sides.)'
+()'
+( Upon attempt to retreat \(GO\) at bottom)'
+( of the screen, lock up occured without)'
+( my moving \(standing at right side )'
+( facing left\) anywhere.  GO kept on)'
+( flashing, I dumped to disk.  When dump)'
+( completed lock-up continued without)'
+( prompt to place Q-disk in drive.  At)'
+( 9:30 powered down to get off-line.)'
+()'
+(                      Frodo B)'
+(                      Bob Grant)'
+()'
+(**************************************************)'
+(SUBJ: Region transfer lockup          )'
+(FROM: Ribbit      09/03/87   S#: 69191 )'
+( )'
+(At 10:43P.M. on 9/02/87 I attemped to)'
+(move out of Machuta's Magic \(to the)'
+(street\). Bonnie and Dragonfish were in)'
+(Machuta's. The screen turned black and)'
+(the music started as in normal region)'
+(transfers. The change was never)'
+(completed \(I waited 5min.\), however. )'
+(Both dump and shift/run stop did not)'
+(work so I deceided to power down.)'
+(When I logged back on I was a ghost)'
+(ouside of Machuta's.)'
+(**************************************************)'
+(SUBJ: Disk Dump                       )'
+(FROM: AGGIE       09/03/87   S#: 68624 )'
+( )'
+( I had to dump my disk tonight due to a)'
+(fatal error o . This occurred at 02:08)'
+(in the region of Woods St going into)'
+(the forest 3 screens south. When I)'
+(tried to change screens/regions it)'
+(would put me back in the same region no)'
+(matter where I went. \(To the left , to)'
+(the right\) After doing this three times)'
+(and arriving back in the same region ,)'
+(I picked up a note that someone left)'
+(behind and then tried to change)'
+(screens. It worked, I moved to another)'
+(region. I then put the note down and)'
+(tried to change screens again and)'
+(nothing but a flashing cursor. I waited)'
+(10 minutes then tried to dump the disk.)'
+(When I did I received the Fatal Error O)'
+(message. I was the only person in the)'
+ET
+endstream
+endobj
+11 0 obj
+2182
+endobj
+12 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 14 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(area at the time. There also was a note)'
+(and trees.)'
+( )'
+( Do I mail off this dump disk that I)'
+(now have?)'
+()'
+(                          Thanks!)'
+(                           Aggie :> )'
+()'
+()'
+(%cvideo#d060>habitat>comments.87-09-04  87-09-04 13:44:43 edt)'
+()'
+(SUBJ: Meeting Outside of HABITAT      )'
+(FROM: Greg P      09/04/87   S#: 73409 )'
+( )'
+(I would like to propose Private Room)'
+("Turf", if this is ok with those)'
+(In-House HabiDeities.)'
+()'
+(Seriously though, it would be nice to)'
+(be able to discuss some of the problems)'
+(and soultions we have been)'
+(having/finding. :\\)'
+()'
+(How does this sound to everyone else?)'
+(                    ----------------------------)'
+(                    SUBJ: Yes!                            )'
+(                    FROM: AndrewG2    09/04/87   S#: 74960 )'
+(                     )'
+(                     Count me in!!! There are lots of)'
+(                    things that would be so much easier to )'
+(                    discuss while in civilian clothes. )'
+(**************************************************)'
+(SUBJ: My Teddy Bear                   )'
+(FROM: RJScott     09/03/87   S#: 48928 )'
+( )'
+(      I am hoping that my Teddy Bear)'
+( which was taken from me in front of my)'
+( very eyes will be returned to me.)'
+()'
+(      She is on medication and needs it)'
+( 4 times a day.)'
+()'
+(      It has now been several days )'
+( since she had her medication and I)'
+( fear for her well-being.  )'
+(**************************************************)'
+(SUBJ: Misc Comments                   )'
+(FROM: Tiresias    09/03/87   S#: 67478 )'
+( )'
+(1\) I sure would like it if we could)'
+(create a FORM offline to that met with)'
+(the required infomation and upload it)'
+(to P2P.  Can we do that and send in the)'
+(name of the file?)'
+()'
+(2\) I think that HABITAT should get the)'
+(Avatar name from the HABITAT disk so )'
+(that "Identify" won't given a clue)'
+(who someone is in HABITAT.)'
+ET
+endstream
+endobj
+14 0 obj
+2067
+endobj
+15 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 17 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+()'
+(3\) I find that having a "sense" of)'
+(which direction I am going is VERY)'
+(difficult.  Perhaps some sort of )'
+(compass on the screen or at least a)'
+(single "N/S/E/W".)'
+()'
+ET
+endstream
+endobj
+17 0 obj
+234
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 4
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R 9 0 R 12 0 R 15 0 R ]
+>>
+endobj
+xref
+0 18
+0000000000 65535 f 0000000010 00000 n 0000000189 00000 n 0000007496 00000 n 0000000244 00000 n 0000000330 00000 n 0000000407 00000 n 0000000495 00000 n 0000002467 00000 n 0000002490 00000 n 0000002579 00000 n 0000004822 00000 n 0000004846 00000 n 0000004936 00000 n 0000007064 00000 n 0000007088 00000 n 0000007178 00000 n 0000007473 00000 n trailer
+<<
+/Size 18
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+7609
+%%EOF

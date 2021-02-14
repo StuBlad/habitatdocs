@@ -1,0 +1,107 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214143734)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\admin\janetEst)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+()'
+(From quantum Tue Nov 11 09:16:37 1986)'
+(Received: from shem by moth; 11 NOV 86 09:16:37 PST)'
+(From: quantum \(Janet Hunter, Quantum Computer Services\))'
+(To: chip)'
+(Received: by shem; 11 NOV 86 09:16:36 PST)'
+(Subject: Time estimates)'
+(Status: RO)'
+()'
+(Chip, )'
+(   Here are my time estimates for the)'
+(Beta Test Prequisite Tasks:)'
+()'
+(  6 Capacity Monitor - 2 days)'
+(                       target 11/14)'
+(  7 Rebuild Regionproc - done 11/11)'
+( 15 Oracle response - 1 day)'
+(                      target 11/17)'
+( 16 Bank acct utility - 1 day)'
+(                        target 11/16)'
+( 18 Text input utility - 1 day)'
+(                         target 11/19)'
+( 67 Avatar to ghost - done)'
+( 68 Online-only ghosts - done)'
+( 69 Exclude non-beta testers - done)'
+( 40 Msg of the day - 1 day)'
+(                     target 11/20 \(?\))'
+( 72 create avatar w/ token - .5 day)'
+(                          target 11/14)'
+()'
+( OOPS: Target date for #16 should be)'
+(       11/18, not 11/16.)'
+()'
+( Note: Question mark on target date for)'
+(       #40 is because it is assigned to)'
+(       both you and me.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1208
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000188 00000 n 0000001784 00000 n 0000000243 00000 n 0000000329 00000 n 0000000406 00000 n 0000000494 00000 n 0000001761 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+1877
+%%EOF

@@ -1,0 +1,130 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214160319)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\notes\abstract.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(Habitat -)'
+()'
+(The foresight to integrate the support and software tools from the beginning,)'
+(including bringing FastLink up, has been invaluable.  Without this support we)'
+(would not have been able to keep any sort of schedule.  The high-level tools)'
+(have been long levers.  The rapport among the group has been very good and)'
+(ideas and programming from each person has been encouraged. )'
+()'
+(Early on in the project a lot of design work was done and legal delays on the)'
+(contract provided time to develop the design further. This planning time)'
+(worked out well and paid off as we decided exactly what we wanted to do. )'
+()'
+(Because of the concentration on the software design the creative content)'
+(suffered and the world was not ready.  Since nothing like this had ever been)'
+(attempted before a lot of problems and details we didn't expect arose and)'
+(caused delays and scheduling problems.)'
+()'
+(The biggest problem is the distance we are from Quantum.  Because of the)'
+(difference in time zones, corporate culture, and work habits the interfacing)'
+(is not as good as it could have been.  The few face to face meetings that were)'
+(held were very helpful and went well.  More frequent and intense contact would)'
+(have made things much easier and helped to avoid the various misunderstandings)'
+(which cropped up.  Since Nancy has formalized the communication procedure)'
+(things are better.  We should have scheduled more time to understand and)'
+(program the host computer since it turned out not to be a very clean system.)'
+()'
+(Planning & Pacing - In general, the more thought, the better prepared you will)'
+(be for unforeseen work.  Since lots of crunch work is inevitable the schedule)'
+(should plan the crunches throughout rather than simply allowing them to)'
+(dominate at the end.  What the designer doesn't know or anticipate effects the)'
+(schedule \(usually for the worse\) and although the design and implementation)'
+(are related they are not always clearly separable.)'
+()'
+(As much time as possible should be spent planning, and everything should be)'
+(planned in more detail, even if you take this principle inot account.  The)'
+(underlying system needs to be built to be creatively flexible because things)'
+(are guaranteed to change later on when you have a clearer idea of what you are)'
+(doing.  Because the creative and technical parts of the design are)'
+(interrelated, both need to be planned together.  If this had been done better)'
+(with Habitat it would have resulted in a better time estimate.  Instead we)'
+(tried to create a set of building blocks without a completely clear idea of)'
+(what we were going to build with them.)'
+()'
+(Every task which involved the Q-Link host computer was a problem because we)'
+(initially didn't understand their system, its system protocol or the assets)'
+(which we could use. )'
+()'
+(Conflicts -)'
+()'
+(Quantum did not think in the same way we did of systems for enabling users to)'
+(communicate with each other and so various conflicts in design came up that)'
+(had to be dealt with.  It came down to whether we were doing a)'
+(telecommunications game using their existing ideas or creating a new one.  Our)'
+(idea was to do more of a fantasy world separate from the rest of the user's)'
+(life and Quantum had difficulty understanding this.  In particular, they have)'
+(never understood the principle of witholding capabilities from players for)'
+(dramatic or creative purposes -- they tend to want people to have access to)'
+(the maximum possible set of capabilities at all times, regardless of)'
+(situation.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+3718
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000190 00000 n 0000004296 00000 n 0000000245 00000 n 0000000331 00000 n 0000000408 00000 n 0000000496 00000 n 0000004273 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+4389
+%%EOF

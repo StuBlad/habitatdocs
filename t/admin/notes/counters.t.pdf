@@ -1,0 +1,113 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214160641)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\notes\counters.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(Display cases:)'
+()'
+(We add two properties to the display case struct:)'
+()'
+(        owner                           binary\(31\))'
+(        locked\(DISPLAY_CASE_CAPACITY\)   bit\(1\))'
+()'
+('owner' is an Avatar ID.)'
+('locked' is an array of bits, parallel to the contents array.)'
+()'
+(Whenever an Avatar PUTs something into the display case, if the Avatar is the)'
+(owner, we set the 'locked' bit corresponding to the contents slot that the)'
+(object is being put into.  If the Avatar is not the owner, we clear the bit.)'
+()'
+(Whenever an Avatar tries to GET something out of the display case, if the)'
+('locked' bit corresponding to that item is set we only allow the GET to)'
+(succeed if the Avatar is the owner.  Otherwise the GET fails.)'
+()'
+()'
+(Countertops:)'
+()'
+(We add one property to the countertop struct:)'
+()'
+(        whoput\(COUNTERTOP_CAPACITY\)     binary\(31\);)'
+()'
+(This is an array of Avatar ID's parallel to the contents array.)'
+()'
+(Whenever an Avatar tries to PUT something into the countertop, we look to see)'
+(if the Avatar's ID matches any of the entries in 'whoput'.  If so, the PUT)'
+(fails.  If not, we set the 'whoput' entry corresponding to the item slot to)'
+(the PUTing Avatar's ID.)'
+()'
+(Whenever an Avatar tries to GET something from the countertop, we look to see)'
+(if the Avatar's ID matches any of the entries in 'whoput'.  If not, the GET)'
+(fails.  If so, then the GET succeeds, but there are two cases: 1\) it matches)'
+(the entry for the item being gotten; in this case we simply set the 'whoput')'
+(entry for the item to 0.  2\) it matches the entry for some other item; in this)'
+(case we set the other item's 'whoput' entry to the value in this item's)'
+('whoput' entry, and THEN zero this item's entry.)'
+()'
+(We garbage collect the contents of all countertops during the nightly garbage)'
+(collection sweep.)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1963
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000010 00000 n 0000000190 00000 n 0000002541 00000 n 0000000245 00000 n 0000000331 00000 n 0000000408 00000 n 0000000496 00000 n 0000002518 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2634
+%%EOF

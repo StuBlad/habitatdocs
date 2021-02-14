@@ -1,0 +1,159 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20210214145423)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (C:\Users\Stu\Desktop\convertedHabidocs\txt\archives\plan2.t)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(                        Operation Overlord)'
+(       \(Hey, why don't we put a trip to Europe in the budget?\))'
+()'
+(Scenario I -- C64 + Amiga, HyperCrunch mode)'
+(Scenario II -- C64 only, HyperCrunch mode)'
+(Scenario III -- C64 + Amiga, SemiCrunch mode)'
+(Scenario IV -- C64 only, SemiCrunch mode)'
+()'
+(HyperCrunch mode milestone schedule: \(Scenarios I & II\))'
+(  1-October-1985        project start)'
+(  15-March-1986         beta test release)'
+(  1-June-1986           public release)'
+()'
+(SemiCrunch mode milestone schedule: \(Scenarios III & IV\))'
+(  1-October-1985        project start)'
+(  1-June-1986           beta test release)'
+(  1-August-1986         public release)'
+()'
+(HyperCrunch mode staffing:)'
+(  1\) Architect/choreographer/project manager \(1-Oct-85 to 31-Aug-86\))'
+(        \(11 mmm.\))'
+(  2\) Commodore 64 graphics programmer \(15-Oct-85 to 30-Jun-86\))'
+(        \(8.5 mmm.\))'
+(  2a\) Amiga graphics programmer \(15-Oct-85 to 30-Jun-86\))'
+(        \(8.5 mmm.\))'
+(  3\) Commodore 64 internal simulation programmer \(15-Oct-85 to 30-Jun-86\))'
+(        \(8.5 mmm.\))'
+(  3a\) Amiga internal simulation programmer \(15-Oct-85 to 30-Jun-86\))'
+(        \(8.5 mmm.\))'
+(  4\) World/object designer/illustrator \(1-Nov-85 to 30-Jun-86\))'
+(        \(8 mmm.\))'
+(  5\) World database coder/communications programmer/system integrator)'
+(                                                       \(1-Dec-85 to 31-Jul-86\))'
+(        \(8 mmm.\))'
+(  6\) Host database programmer \(Q-Link person\) \(1-Nov-85 to 31-Jul-86\))'
+(        \(0 mmm. -- not ours\))'
+()'
+(Total: w/ Amiga: 61 mmm.  w/o Amiga: 44 mmm.)'
+()'
+(SemiCrunch mode staffing:)'
+(  1\) Architect/choreographer/project manager \(1-Oct-85 to 30-Oct-86\))'
+(        \(13 mmm.\))'
+(  2\) Commodore 64 \(*\) programmer #1 \(15-Oct-85 to 31-Aug-86\))'
+(        \(10.5 mmm.\))'
+(  2a\) Amiga \(*\) programmer #1 \(15-Oct-85 to 31-Aug-86\))'
+(        \(10.5 mmm.\))'
+(  3\) Commodore 64 \(*\) programmer #2 \(15-Nov-85 to 31-Aug-86\))'
+(        \(9.5 mmm.\))'
+(  3a\) Amiga programmer \(*\) #2 \(15-Nov-85 to 31-Aug-86\))'
+(        \(9.5 mmm.\))'
+(  4\) Artist/object designer \(1-Jan-86 to 31-Aug-86\) \(1/2 time\))'
+(        \(4 mmm.\))'
+(  5\) Host database programmer \(Q-Link person\) \(1-Nov-85 to 30-Sep-86\))'
+(        \(0 mmm. -- not ours\))'
+()'
+(\(*\) Programmers in SemiCrunch mode must be more sophisticated because they)'
+(will be programming the objects for the world in addition to programming their)'
+(respective machines \(i.e., C64 or Amiga\).)'
+()'
+(Total: w/ Amiga: 57 mmm.  w/o Amiga: 37 mmm.)'
+ET
+endstream
+endobj
+8 0 obj
+2706
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 11 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+()'
+(These staffing estimates do not take into account possible overlap with the)'
+(Labyrinth project.  In all likelihood that will not significantly improve the)'
+(staffing requirements but merely give the MicroCosm staff more breathing space)'
+(for populating the world with objects.)'
+()'
+ET
+endstream
+endobj
+11 0 obj
+343
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 2
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R 9 0 R ]
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 0000000010 00000 n 0000000190 00000 n 0000003800 00000 n 0000000245 00000 n 0000000331 00000 n 0000000408 00000 n 0000000496 00000 n 0000003261 00000 n 0000003284 00000 n 0000003373 00000 n 0000003777 00000 n trailer
+<<
+/Size 12
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+3899
+%%EOF
